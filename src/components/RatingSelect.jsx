@@ -1,5 +1,4 @@
 import { useState, useContext, useEffect } from "react";
-import PropTypes from "prop-types";
 import FeedbackContext from "../contex/FeedbackContex";
 
 const RatingSelect = ({ select }) => {
